@@ -7,6 +7,6 @@ If you're in Northern California, you'll be walking past the inevitable bushels 
 Some of our strongest geographic and cultural associations are tied to a region's local foods. 
 # This playground competitions asks you to predict the category of a dish's cuisine given a list of its ingredients.
 
-I would like to thank [Yummly]("https://www.yummly.com/") for providing this unique dataset. Kaggle is hosting this playground competition for fun and practice.
+I would like to thank Yummly - https://www.yummly.com for providing this unique dataset. Kaggle is hosting this playground competition for fun and practice.
 
 # In the dataset, we include the recipe id, the type of cuisine, and the list of ingredients of each recipe (of variable length). The data is stored in JSON format. 
